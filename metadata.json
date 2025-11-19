@@ -1,0 +1,5 @@
+{
+  "name": "EnduroGPT",
+  "description": "A classic pseudo-3D racing game inspired by Atari's Enduro. Features day/night cycles, weather changes, and an AI Pit Crew Chief powered by Gemini.",
+  "requestFramePermissions": []
+}
